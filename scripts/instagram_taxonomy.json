@@ -1,13 +1,20 @@
 {
-  "_note": "Copy the 14 framework names exactly as they appear in the skill's frameworks.md, and the banned phrases from voice.md. Classification quality depends on these matching the skill.",
+  "_note": "Framework names match frameworks.md in creating-hooks-skill exactly. Banned phrases from voice.md (starter list, still marked CONFIRM there; update both files together).",
   "frameworks": [
     "Conditional Hack",
-    "POV",
+    "Pattern Interrupt",
     "Audience Callout",
     "Authority Credential",
-    "Demo/Unbox",
-    "Question",
-    "FILL_IN_REMAINING_8_FROM_frameworks.md"
+    "Numbered Listicle",
+    "Demo / Unboxing",
+    "Vulnerable Origin",
+    "POV Relatability",
+    "Curiosity Reveal",
+    "Cliffhanger Tease",
+    "Brutal Honesty",
+    "Reaction Shock",
+    "Legal / Class Action Tip",
+    "Question Hook"
   ],
   "niches": [
     "Coaches",
@@ -19,6 +26,19 @@
     "Trainer/Health"
   ],
   "banned_phrases": [
-    "FILL_IN_FROM_voice.md"
+    "Game-changer",
+    "level up",
+    "unlock the future",
+    "Revolutionary",
+    "disrupting",
+    "Trustless",
+    "Web3",
+    "Hodl",
+    "wagmi",
+    "ngmi",
+    "gm",
+    "Are you tired of",
+    "Let's dive in",
+    "Let's break it down"
   ]
 }
