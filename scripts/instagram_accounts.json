@@ -1,0 +1,7 @@
+{
+  "_note": "Seed list. 30 to 50 accounts across your niches. Handle without @. Niche must match a niche name in instagram_taxonomy.json.",
+  "accounts": [
+    { "handle": "example_handle_1", "niche": "Tech/AI" },
+    { "handle": "example_handle_2", "niche": "Digital Business Owners" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_note": "Copy the 14 framework names exactly as they appear in the skill's frameworks.md, and the banned phrases from voice.md. Classification quality depends on these matching the skill.",
+  "frameworks": [
+    "Conditional Hack",
+    "POV",
+    "Audience Callout",
+    "Authority Credential",
+    "Demo/Unbox",
+    "Question",
+    "FILL_IN_REMAINING_8_FROM_frameworks.md"
+  ],
+  "niches": [
+    "Coaches",
+    "Digital Business Owners",
+    "Digital Nomad/Travel",
+    "Fashion/Beauty Stylists",
+    "Professional Services",
+    "Tech/AI",
+    "Trainer/Health"
+  ],
+  "banned_phrases": [
+    "FILL_IN_FROM_voice.md"
+  ]
+}
