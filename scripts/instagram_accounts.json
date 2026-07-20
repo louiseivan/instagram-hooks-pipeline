@@ -1,7 +1,62 @@
 {
-  "_note": "Seed list. 30 to 50 accounts across your niches. Handle without @. Niche must match a niche name in instagram_taxonomy.json.",
+  "_note": "Seed list extracted from Apify test dataset viIlYZEiXLhT38krh on 2026-07-20. Niches auto-classified from caption samples; correct any that look wrong. Accounts with fewer than 5 posts in the scrape are skipped by the baseline filter until a full profile pull includes them. Prune quarterly, grow toward 30-50.",
   "accounts": [
-    { "handle": "example_handle_1", "niche": "Tech/AI" },
-    { "handle": "example_handle_2", "niche": "Digital Business Owners" }
-  ]
+    {
+      "handle": "drchristinelai",
+      "niche": "Professional Services"
+    },
+    {
+      "handle": "taisa.mukha",
+      "niche": "Tech/AI"
+    },
+    {
+      "handle": "jacquesgreeff_",
+      "niche": "Digital Business Owners"
+    },
+    {
+      "handle": "minolee.mp4",
+      "niche": "Coaches"
+    },
+    {
+      "handle": "jun_yuh",
+      "niche": "Coaches"
+    },
+    {
+      "handle": "euro_maxxing",
+      "niche": "Tech/AI"
+    },
+    {
+      "handle": "courtnebianca",
+      "niche": "Digital Business Owners"
+    },
+    {
+      "handle": "sorhan.hq",
+      "niche": "Digital Business Owners"
+    },
+    {
+      "handle": "hotsmartrich",
+      "niche": "Coaches"
+    },
+    {
+      "handle": "gold.ambas",
+      "niche": "Trainer/Health"
+    },
+    {
+      "handle": "kbonvacay",
+      "niche": "Digital Nomad/Travel"
+    }
+  ],
+  "test_scrape_post_counts": {
+    "drchristinelai": 100,
+    "taisa.mukha": 100,
+    "jacquesgreeff_": 100,
+    "minolee.mp4": 100,
+    "jun_yuh": 98,
+    "euro_maxxing": 96,
+    "courtnebianca": 68,
+    "sorhan.hq": 3,
+    "hotsmartrich": 2,
+    "gold.ambas": 1,
+    "kbonvacay": 1
+  }
 }
